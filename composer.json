@@ -1,5 +1,5 @@
 {
-    "name": "vladshish/cakephp-gravatar-plugin",
+    "name": "vladshish/gravatar",
     "type": "cakephp-plugin",
     "description": "Gravatar for CakePHP 2.x",
     "homepage": "https://github.com/vladshish/cakephp-gravatar-plugin",
