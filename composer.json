@@ -4,11 +4,11 @@
     "description": "Gravatar for CakePHP 2.x",
     "homepage": "https://github.com/vladshish/cakephp-gravatar-plugin",
     "license": "MIT",
-    "extra": {
-    	"installer-name": "Gravatar"
-  	},
     "require": {
         "php": ">=5.2.8",
         "composer/installers": "*"
+    },
+    "extra": {
+        "installer-name": "Gravatar"
     }
 }
