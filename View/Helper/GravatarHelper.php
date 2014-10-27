@@ -34,11 +34,8 @@ class GravatarHelper extends AppHelper {
 		}
 
 		$options['title'] = 'Click here to obtain a gravatar.';
-		return $this->Html->link(
-			$this->Html->image($url,$options),
-			'http://www.gravatar.com',
-			array('target'=>'_blank','escape'=>false)
-		);
+
+		return $this->Html->image($url, $options);
 	}
 
 	/** 
