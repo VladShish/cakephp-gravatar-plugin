@@ -1,8 +1,8 @@
 {
-    "name": "VladShish/cakephp-gravatar-plugin",
+    "name": "vladshish/cakephp-gravatar-plugin",
     "type": "cakephp-plugin",
     "description": "Gravatar for CakePHP 2.x",
-    "homepage": "https://github.com/VladShish/cakephp-gravatar-plugin",
+    "homepage": "https://github.com/vladshish/cakephp-gravatar-plugin",
     "license": "MIT",
     "require": {
         "php": ">=5.2.8",
